@@ -52,6 +52,7 @@ not (b,y);
 not (c,z);
 and (d,a,b,c);
 and (e,x,y,c);
+or (f,d,e);
 endmodule
 ```
 # REFERENCE:
