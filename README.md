@@ -28,6 +28,9 @@ A Karnaugh map (K-map) is a visual method used to simplify the algebraic express
 # LOGIC DIAGRAM:
 
 
+![logic (de)sa-1](https://github.com/shoaib3136/Simulation-project--Digital-Electronics/assets/117919362/3a659af7-c387-426b-a796-878caa16f364)
+
+
 # NETLIST DIAGRAM:
 ![assignment1(de)logic](https://github.com/shoaib3136/Simulation-project--Digital-Electronics/assets/117919362/46f58906-fddf-431b-b558-e9ef2a7d643d)
 
@@ -56,4 +59,6 @@ or (f,d,e);
 endmodule
 ```
 # REFERENCE:
+https://www.electroniclinic.com/sop-and-pos-digital-logic-designing-with-solved-examples/
+
 
